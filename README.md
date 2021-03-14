@@ -1,4 +1,4 @@
-# Vitaly-Nechayuk
+# Vitaly Nechayuk
 
 B.Sc Software Engineering Student (Final year) with specialization in cybersecurity.
 
