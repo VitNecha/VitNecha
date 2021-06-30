@@ -1,6 +1,6 @@
 # Vitaly Nechayuk
 
-B.Sc Software Engineering Student (Final year) with specialization in cybersecurity.
+B.Sc Software Engineering with specialization in cybersecurity.
 
 **Programming laanguages:**
 > C/C++, Java, Python, JavaScript, C#, Assembly, Solidity.
@@ -23,6 +23,6 @@ B.Sc Software Engineering Student (Final year) with specialization in cybersecur
 > 
 
 **Tools:**
-> - Visual Studio/Visual Studio Code, Android Studion, Eclipse, Android Studio, IntelliJ, Brackets
+> - Visual Studio/Visual Studio Code, Android Studion, Eclipse, Android Studio, IntelliJ, Brackets, Unity Game Engine (2D). 
 > - GitHub, Jenkins, Jira, Wireshark, VMware Workstation, VirtualBox, Masterteisk.
 > 
