@@ -7,7 +7,7 @@ B.Sc Software Engineering with specialization in cybersecurity.
 >
 
 **Databases:**
-> - SQL, XML, Ethereum.
+> - SQL, XML.
 > - Google Firebase, Oracle Databases, Blockchain.
 >
 
