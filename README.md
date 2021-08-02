@@ -26,6 +26,6 @@ B.Sc Software Engineering with specialization in cybersecurity.
 > 
 
 **Tools:**
-> - Visual Studio/Visual Studio Code, Android Studion, Eclipse, Android Studio, IntelliJ, Brackets, Unity Game Engine (2D). 
+> - Visual Studio/Visual Studio Code, Eclipse, Android Studio, IntelliJ, Brackets, Unity Game Engine (2D). 
 > - GitHub, Jenkins, Jira, Wireshark, VMware Workstation, VirtualBox, Masterteisk.
 > 
