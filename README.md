@@ -8,13 +8,14 @@ B.Sc Software Engineering with specialization in cybersecurity.
 > C/C++, Java, Python, JavaScript, C#, Assembly, Solidity.
 >
 
-**Databases:**
+**Backend**
 > - SQL, XML.
-> - Google Firebase, Oracle Databases, Blockchain.
->
+> - MongoDB, Google Firebase, Oracle Databases, Blockchain.
+> - Node.js.
+> 
 
-**API's:**
-> ReactJS
+**Frontend**
+> ReactJS.
 > 
 
 **Theoretical knowledge:**
